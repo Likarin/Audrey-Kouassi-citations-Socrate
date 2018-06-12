@@ -5,3 +5,4 @@ Citation 2 : Existe-t-il pour l'homme un bien plus précieux que la Santé ?
 Citation 3 : Je ne suis ni Athénien, ni Grec, mais un citoyen du monde. 
 Citation 4 : Connais-toi toi-même.
 Citation 5 : L'homme doit s'élever au-dessus de la Terre - aux limites de l'atmosphère et au-delà - ainsi seulement pourra-t-il comprendre tout à fait le monde dans lequel il vit.
+Citation 6 : La plus intelligente est celle qui sait qu'elle ne sait pas.
